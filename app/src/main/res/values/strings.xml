@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Noughts and Crosses</string>
+    <string name="step1">The player will select the tile and turn</string>
+    <string name="step2">The player will select a tile which will change to his/her tile</string>
+    <string name="step3">The other player will select other tile</string>
+    <string name="step4">The game end when the one f the player manages to get a straight line or draw</string>
+</resources>
